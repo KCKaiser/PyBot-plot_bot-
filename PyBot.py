@@ -163,7 +163,7 @@ def plotbot():
                                 sentiments_df = pd.DataFrame(sentiments)
 
                         createplot(sentiments_df, target_user)
-                        #tweetout(target_user, person_to_thank)
+                        tweetout(target_user, person_to_thank)
 
 
 # In[ ]:
