@@ -1,0 +1,3 @@
+config.py
+.DS*
+__pycache__
